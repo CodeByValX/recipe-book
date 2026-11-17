@@ -3,9 +3,9 @@
 A community cookbook built with **React + Vite** and **Supabase** (Postgres, Auth, Row Level Security).
 Guests can browse recipes; registered users can publish, edit and delete their own recipes, like other recipes and comment on them.
 
-- **Live app (frontend):** _paste your deployed frontend URL here_
+- **Live app (frontend):** https://recipe-book-lemon-six.vercel.app
 - **Backend:** Supabase (hosted – database and Auth are already live, no separate server to deploy)
-- **GitHub:** _paste your repository URL here_
+- **GitHub:** https://github.com/CodeByValX/recipe-book
 
 ## Installation & Running Locally
 
